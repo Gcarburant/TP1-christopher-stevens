@@ -471,7 +471,7 @@ COMPOSANTES
 }
 
 .site__header {
-  background-color: black;
+  background-color: white;
   color: #ff00dd;
   padding-left: 10px;
   display: flex;
@@ -790,7 +790,7 @@ LAYOUT
 
 .site__header {
   grid-area: header;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .site__barre {
