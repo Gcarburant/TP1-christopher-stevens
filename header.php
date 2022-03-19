@@ -26,14 +26,11 @@
             </h1>
             <h2 class="header__description"><?php bloginfo('description'); ?></h2>
         </section>
-        <div class="util">
-            
-            <div class="util__menu">
-                <?php get_sidebar('entete_1'); ?>
-            </div>
+        <section class="util">
+            <?php get_sidebar('entete_1'); ?>
             <?php get_search_form(); ?>
             <!-- form recherche -->
-        </div>
+        </section>
     </header>
     <section class="site__barre">
         <input type="checkbox" id="chk-burger">
