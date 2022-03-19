@@ -455,13 +455,13 @@ COMPOSANTES
 }
 
 .cours__titre {
-  font-size: 1.5rem;
+  font-size: 1.9rem;
   color: #ebcac1;
   margin: 5px 0px;
 }
 
 .cours__sigle {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: #3a0c36;
   margin: 0;
 }
@@ -705,7 +705,7 @@ COMPOSANTES
 }
 
 .recherche__submit svg {
-  color: #000;
+  color: #535353;
 }
 
 .cours__titre {
