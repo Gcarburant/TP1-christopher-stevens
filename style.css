@@ -434,8 +434,8 @@ COMPOSANTES
 
 .formation__cours {
   background-color: white;
-  border-radius: 5px;
-  margin: 10px;
+  border-radius: 6px;
+  margin: 11px;
   display: flex;
   flex-direction: column;
   width: 100%;
