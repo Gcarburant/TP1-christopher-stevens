@@ -20,6 +20,14 @@
     &__liste {
         display: flex;
         flex-wrap: wrap;
+        .web{
+            background-image: url();
+        }
+        .design{}
+        .video{}
+        .creation-3d{}
+        .jeu{}
+        .utilistaire{}
     }
     
     &__cours {
