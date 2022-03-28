@@ -590,6 +590,20 @@ COMPOSANTES
   }
 }
 
+.menu-categorie_cours-container .menu {
+  display: flex;
+  list-style-type: none;
+}
+
+.menu-categorie_cours-container .menu .menu-item {
+  display: block;
+  column-gap: 20px;
+}
+
+.menu-categorie_cours-container .menu a {
+  text-decoration: none;
+}
+
 .site__footer {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   background-color: black;
